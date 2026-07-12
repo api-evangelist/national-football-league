@@ -22,6 +22,8 @@ modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/national-football-league-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/nfl
   - type: LinkedIn
@@ -32,6 +34,8 @@ common:
     url: https://operations.nfl.com/
   - type: NextGenStats
     url: https://nextgenstats.nfl.com/
+  - url: https://www.nfl.com/news/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
