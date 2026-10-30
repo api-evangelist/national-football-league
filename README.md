@@ -1,4 +1,4 @@
-# National Football League (national-football-league)
+# National Football League
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,21 +66,79 @@
 
 The National Football League (NFL) is the premier professional American football league, comprised of 32 franchises divided between the AFC and NFC conferences. The NFL produces the Super Bowl and is the most-watched sports league in the United States. The league does not operate a public developer portal; statistical and play-by-play data feeds are licensed to partners (notably AWS, Amazon Web Services Next Gen Stats, Sportradar, and Genius Sports) and are not offered as a self-serve developer API.
 
-**URL:** [https://www.nfl.com/](https://www.nfl.com/)
+**Areas:** Sports · Football · Entertainment · Professional League
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=national-football-league-api-evangelist&utm_content=repo)
+## National Football League on APIs.io
 
-## Tags:
+Everything profiled for National Football League is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/national-football-league/](https://apis.io/providers/national-football-league/)** — or go straight to one of the APIs or properties below.
 
- - Sports, Football, Entertainment, Professional League
+### Published properties
 
-## Common Properties
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Website:** https://www.nfl.com/
-- **Operations:** https://operations.nfl.com/
-- **NextGenStats:** https://nextgenstats.nfl.com/
+#### Security (1)
 
-## Timestamps
+Authentication, trust centre, and vulnerability disclosure.
 
-- **Created:** 2026-05-05
-- **Modified:** 2026-05-16
+- [National Football League Domain Security](https://apis.io/security/national-football-league/national-football-league-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.nfl.com/)
+- [Blog](https://www.nfl.com/news/)
+- [GitHub](https://github.com/nfl)
+
+## API Evangelist rating
+
+**Kin Score 3.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 39.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/national-football-league/](https://apis.io/providers/national-football-league/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for National Football League: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/national-football-league/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
